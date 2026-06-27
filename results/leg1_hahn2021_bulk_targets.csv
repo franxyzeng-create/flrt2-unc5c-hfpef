@@ -1,0 +1,15 @@
+"gene","log2FC_HFpEF","padj_HFpEF","pval_HFpEF","ctrl_median","hfpef_median","log2FC_HFrEF","padj_HFrEF","role","tier","pathway","direction","call","lowexpr","tier_rank"
+"FLRT2",1.136181919,4.59565e-11,6.66256e-12,58,146,1.201042972,1.16364e-10,"ligand","★hub","UNC5/FLRT/ADGRL(hub配体)","up","*up(corroborate)","",0
+"UNC5C",-0.158706058,0.228460823,0.1787332,160,126,0.073307505,0.651106468,"receptor","★hub","UNC5/Netrin(hub受体)","down","ns(uninformative)","",0
+"TENM4",1.183969392,1.73619e-07,4.28265e-08,10,32,2.237799307,3.41421e-21,"ligand","core(UNC5/FLRT/ADGRL)","ADGRL","up","*up(corroborate)","",1
+"TENM3",0.282910533,0.048198085,0.031770465,125,141,0.754519338,4.79964e-07,"ligand","core(UNC5/FLRT/ADGRL)","ADGRL","up","*up(corroborate)","",1
+"UNC5B",0.269422079,0.004759582,0.002522919,730,782,0.387758464,0.000175984,"receptor","core(UNC5/FLRT/ADGRL)","UNC5/Netrin","up","*up(corroborate)","",1
+"ADGRL1",-0.242083161,0.028976831,0.018123334,742.5,591,-0.551577286,2.67557e-06,"receptor","core(UNC5/FLRT/ADGRL)","ADGRL","down","*DOWN(DISCONFIRM)","",1
+"ADGRL2",-0.296263708,2.20277e-05,7.62555e-06,2786,2330,-0.148621388,0.065772919,"receptor","core(UNC5/FLRT/ADGRL)","ADGRL","down","*DOWN(DISCONFIRM)","",1
+"TENM2",-0.306047934,0.000506415,0.000222274,11691.5,9624,-0.081501349,0.458331463,"ligand","core(UNC5/FLRT/ADGRL)","ADGRL","down","*DOWN(DISCONFIRM)","",1
+"ADGRL3",-0.584313444,0.022003782,0.013369554,208.5,157,0.962119281,0.000454505,"receptor","core(UNC5/FLRT/ADGRL)","ADGRL","down","*DOWN(DISCONFIRM)","",1
+"NTRK2",0.605645162,4.89182e-05,1.79582e-05,224,319,0.485613553,0.003483822,"receptor","secondary(SLIT/Netrin)","Netrin","up","*up(corroborate)","",2
+"SLIT2",0.536741018,0.001225159,0.000577305,220.5,325,0.544297258,0.002978094,"ligand","secondary(SLIT/Netrin)","SLIT","up","*up(corroborate)","",2
+"ROBO1",0.053958055,0.714309864,0.662907513,257.5,257,0.472296863,0.001067868,"receptor","secondary(SLIT/Netrin)","SLIT","up","ns(uninformative)","",2
+"NTN4",-0.09865246,0.381413683,0.319572127,3500.5,3298,0.067171556,0.620855346,"ligand","secondary(SLIT/Netrin)","Netrin","down","ns(uninformative)","",2
+"NTN1",-0.469428697,0.013061521,0.007567174,1655,1117,-0.677178512,0.000970736,"ligand","secondary(SLIT/Netrin)","Netrin","down","*DOWN(DISCONFIRM)","",2
