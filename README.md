@@ -3,7 +3,7 @@
 Reproducible analysis code for a cross-modal single-nucleus + orthogonal-bulk study of a fibroblast **FLRT2–UNC5C** signal in human heart failure with preserved ejection fraction (HFpEF).
 
 > **Paper:** *Fibroblast FLRT2–UNC5C signalling in human obese HFpEF: a single-nucleus and orthogonal-bulk study.* `<Authors>`. `<Journal>`, `<Year>`. DOI: `<paper DOI>`.
-> **Archived code (this release):** Zenodo DOI `10.5281/zenodo.XXXXXXX` `← 填实际 DOI`
+> **Repository:** https://github.com/franxyzeng-create/flrt2-unc5c-hfpef · **Archived (this release):** figshare DOI `10.6084/m9.figshare.32813990`
 
 ---
 
@@ -102,7 +102,7 @@ Outputs to `figures/` (Fig 1–4 main; Fig 5 + Suppl. Fig S1 supplementary). All
 
 ## Data and Code Availability statement (for the manuscript)
 
-> All analysis code is available at `https://github.com/<username>/<repo>` and archived at Zenodo (DOI `10.5281/zenodo.XXXXXXX`). The discovery single-nucleus dataset is available from the Broad Single Cell Portal (SCP3342) and the validation bulk dataset from Zenodo (4114617); no new data were generated. This study is a secondary analysis of de-identified public data.
+> All analysis code is available at `https://github.com/franxyzeng-create/flrt2-unc5c-hfpef` and archived at figshare (DOI `10.6084/m9.figshare.32813990`). The discovery single-nucleus dataset is available from the Broad Single Cell Portal (SCP3342) and the validation bulk dataset from Zenodo (4114617); no new data were generated. This study is a secondary analysis of de-identified public data.
 
 ---
 
@@ -114,7 +114,7 @@ If you use this code, please cite both the paper and the archived release:
 <Authors>. Fibroblast FLRT2–UNC5C signalling in human obese HFpEF:
 a single-nucleus and orthogonal-bulk study. <Journal>. <Year>. doi:<paper DOI>.
 
-<Authors>. Analysis code (vX.Y) [software]. Zenodo. <Year>. doi:10.5281/zenodo.XXXXXXX.
+<Authors>. Analysis code (v1.0) [software]. figshare. 2026. doi:10.6084/m9.figshare.32813990.
 ```
 
 Please also cite the primary data: Hahn et al. *Circ Res* 2026 (SCP3342) and Hahn et al. *Circulation* 2021 (PMID 33118835).
